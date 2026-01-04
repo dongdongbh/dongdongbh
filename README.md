@@ -1,5 +1,7 @@
 # Hi there, I'm Dongda Li! 👋
 
+![](https://komarev.com/ghpvc/?username=dongdongbh&color=7aa2f7&style=flat-square&label=Profile+Views)
+
 ### 👨‍💻 PhD Student & Roboticist
 I am a **PhD student** in Computer & Information Science & Engineering at **Syracuse University**, working on Statistical Learning and Autonomous Systems. My background bridges Computer Science and Electrical Engineering.
 
