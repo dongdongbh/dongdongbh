@@ -5,7 +5,7 @@
 ### 👨‍💻 OSS S thusiast
 My background bridges Computer Science and Electrical Engineering.
 
-- 🔭 **Research:** I specialize in Deep Learning, Neural Combinatorial Optimization, SLAM, and UAVs.
+- 🔭 **Research:** I specialize in Machine Learning, Neural Combinatorial Optimization, Autonomous System.
 - 🐧 **System:** I run **Arch Linux** (btw) and live in the terminal.
 - ⚡ **Editor:** Neovim is my weapon of choice.
 - 🛠 **Open Source:** I am the creator and maintainer of **[Mindwtr](https://github.com/dongdongbh/Mindwtr)**.
