@@ -35,7 +35,7 @@ I am a **PhD student** in Computer & Information Science & Engineering at **Syra
 <p align="left">
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="dongdongbh" />
   
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="dongdongbh" />
+  <!-- <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="dongdongbh" />  -->
 </p>
 
 ---
