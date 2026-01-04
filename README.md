@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dongdongbh&color=7aa2f7&style=flat-square&label=Profile+Views)
 
-### 👨‍💻 OSS S enthusiast
+### 👨‍💻 OSS S thusiast
 My background bridges Computer Science and Electrical Engineering.
 
 - 🔭 **Research:** I specialize in Deep Learning, Neural Combinatorial Optimization, SLAM, and UAVs.
