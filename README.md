@@ -8,9 +8,9 @@
 My background bridges Computer Science and Electrical Engineering.
 
 - 🔭 **Research:** I specialize in Machine Learning, Neural Combinatorial Optimization, Autonomous System.
-- 🌱 **About:** Lifelong learner, always curious.
 - 🐧 **System:** I run **Arch Linux** (btw) and live in the terminal.
 - ⚡ **Editor:** Neovim is my weapon of choice.
+- 🌱 **About:** Lifelong learner, always curious.
 - 🛠 **Open Source:** I am the creator and maintainer of **[Mindwtr](https://github.com/dongdongbh/Mindwtr)**.
 
 ---
