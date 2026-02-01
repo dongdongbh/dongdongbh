@@ -72,6 +72,3 @@ My background bridges Computer Science and Electrical Engineering.
 </a>
 </p>
 
-<div align="center">
-  <p><b>Show some ❤️ by starring some of the repositories!</b></p>
-</div>
