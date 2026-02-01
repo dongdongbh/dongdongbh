@@ -1,8 +1,8 @@
 # Hi there, I'm Dongda Li! 👋
 
-![](https://komarev.com/ghpvc/?username=dongdongbh&color=7aa2f7&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=dongdongbh&color=7aa2f7&style=flat-square&label=Profile+Views) <a href="https://github.com/dongdongbh?tab=stars"> <img src="https://img.shields.io/github/stars/dongdongbh?label=Star%20Gazers&style=social" alt="Star Gazers" /> </a>
 
-<h3 align="center"><i>Make it if you don't get it - &lt;/&gt;</i></h3>
+<h3 align="center"><i>Make it if you don't get it</i></h3>
 
 ### 👨‍💻   OSS Enthusiast
 My background bridges Computer Science and Electrical Engineering.
@@ -28,7 +28,6 @@ My background bridges Computer Science and Electrical Engineering.
   <a href="https://neovim.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="neovim" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-  <a href="https://github.com/dongdongbh?tab=stars"> <img src="https://img.shields.io/github/stars/dongdongbh?label=Star%20Gazers&style=social" alt="Star Gazers" /> </a>
 </p>
 
 ---
