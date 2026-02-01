@@ -41,7 +41,7 @@ My background bridges Computer Science and Electrical Engineering.
     </tr>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/dongdongbh/Mindwtr/main/apps/mobile/assets/images/icon.png" width="20" alt="Mindwtr icon" style="vertical-align: -3px; margin-right: 6px;" />
+        <img src="https://raw.githubusercontent.com/dongdongbh/Mindwtr/main/apps/mobile/assets/images/icon.png" width="20" alt="Mindwtr icon" />
         <a href="https://github.com/dongdongbh/Mindwtr">Mindwtr</a>
       </td>
       <td>A complete Getting Things Done (GTD) productivity system for desktop and mobile. Mind Like Water.</td>
