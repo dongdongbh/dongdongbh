@@ -7,7 +7,7 @@
 ### 👨‍💻   OSS Enthusiast
 My background bridges Computer Science and Electrical Engineering.
 
-- 🔭 **Research:** I specialize in Machine Learning, Neural Combinatorial Optimization, Autonomous System.
+- 🔭 **Research:** I specialize in Machine Learning, Multimodal AI, Autonomous System.
 - 🐧 **System:** I run **Arch Linux** (btw) and live in the terminal.
 - ⚡ **Editor:** Neovim is my weapon of choice.
 - 🌱 **About:** Lifelong learner, always curious.
